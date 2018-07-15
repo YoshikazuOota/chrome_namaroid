@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04c647dc-fece-4fd1-9fd1-accd6a6d13ae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.babelrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.github/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.stylelintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.stylelintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/CODE_OF_CONDUCT.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/breakpoints.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/browser-bugs.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/browser-features.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/examples.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/grays.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/nav.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/theme-colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_data/translations.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/ads.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/callout-danger-async-methods.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/callout-info-mediaqueries-breakpoints.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/callout-warning-color-assistive-technologies.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/docs-navbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/docs-sidebar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/favicons.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/bootstrap.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/download.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/github.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/import.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/lightning.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/menu.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/slack.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/icons/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/scripts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_includes/social.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/docs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/examples.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/redirect.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_layouts/simple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_plugins/bugify.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_plugins/callout.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_plugins/example.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/_plugins/markdown-block.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/brand/bootstrap-outline.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/brand/bootstrap-punchout.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/brand/bootstrap-social-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/brand/bootstrap-social.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/brand/bootstrap-solid.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/css/docs.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/css/docs.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/bootstrap-stack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/bootstrap-themes.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/android-chrome-512x512.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/mstile-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/mstile-150x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/mstile-310x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/mstile-310x310.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/mstile-70x70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/docs.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/src/application.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/src/pwa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/vendor/anchor.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/vendor/clipboard.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/vendor/holder.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/js/vendor/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_ads.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_algolia.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_anchor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_brand.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_browser-bugs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_callouts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_clipboard-js.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_colors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_component-examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_content.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_masthead.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_sidebar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_skiplink.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_syntax.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/assets/scss/docs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/.htmllintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/change-version.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/gcp-key.json.enc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/generate-sri.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/lint-vars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/postcss.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/rollup.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/sauce_browsers.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/saucelabs-unit-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/ship.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/upload-preview.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/vnu-jar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/workbox.config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/build/workbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/dist/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/about/brand.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/about/license.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/about/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/about/translations.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/browser-bugs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/alerts.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/badge.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/breadcrumb.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/button-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/buttons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/card.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/carousel.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/collapse.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/dropdowns.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/forms.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/input-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/jumbotron.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/list-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/modal.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/navbar.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/navs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/pagination.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/popovers.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/progress.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/scrollspy.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/components/tooltips.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/code.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/figures.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/images.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/reboot.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/tables.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/content/typography.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/.stylelintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/album/album.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/album/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/blog/blog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/blog/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/carousel/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/carousel/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/checkout/form-validation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/checkout/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/cover/cover.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/cover/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/dashboard/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/floating-labels/floating-labels.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/floating-labels/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/grid/grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/grid/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/jumbotron/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/jumbotron/jumbotron.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbar-bottom/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbar-static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbar-static/navbar-top.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbars/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/navbars/navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/offcanvas/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/pricing/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/pricing/pricing.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/product/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/product/product.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/album.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/blog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/carousel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/checkout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/cover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/dashboard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/floating-labels.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/grid.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/jumbotron.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-bottom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-fixed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-static.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbars.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/offcanvas.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/pricing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/product.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/sign-in.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/starter-template.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer-navbar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sign-in/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sign-in/signin.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/starter-template/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/starter-template/starter-template.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/sticky-footer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/extend/approach.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/extend/icons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/extend/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/accessibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/best-practices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/browsers-devices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/build-tools.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/contents.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/download.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/introduction.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/javascript.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/theming.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/getting-started/webpack.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/layout/grid.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/layout/media-object.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/layout/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/layout/utilities-for-layout.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/migration.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/borders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/clearfix.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/close-icon.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/colors.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/display.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/embed.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/flex.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/float.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/image-replacement.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/position.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/screenreaders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/sizing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/spacing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/text.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/vertical-align.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/docs/4.0/utilities/visibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/alert.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/button.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/carousel.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/collapse.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/dropdown.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/index.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/modal.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/popover.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/scrollspy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/tab.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/tooltip.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/dist/util.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/src/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/unit/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/vendor/qunit.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/vendor/qunit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/alert.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/button.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/carousel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/collapse.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/dropdown.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/modal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/popover.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/scrollspy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/tab.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/js/tests/visual/tooltip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/nuget/MyGet.ps1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/nuget/bootstrap.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/nuget/bootstrap.sass.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/package.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/sache.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_breadcrumb.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_button-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_card.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_code.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_custom-forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_images.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_input-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_jumbotron.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_popover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_progress.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_root.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_transitions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/bootstrap-grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/bootstrap-reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_background-variant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_box-shadow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_breakpoints.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_caret.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_gradients.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_grid-framework.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_hover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_image.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_lists.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_nav-divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_navbar-align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_reset-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_resize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_table-row.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_text-emphasis.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_text-hide.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_text-truncate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/mixins/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_background.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_borders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_display.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_embed.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_flex.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_position.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_screenreaders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_sizing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_spacing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/scss/utilities/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/work/bootstrap-4.0.0/sw.js" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="speetch_recognition.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/speetch_recognition.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>update</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/speech_recognition.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/speetch_recognition.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1044" />
+    <option name="y" value="25" />
+    <option name="width" value="1516" />
+    <option name="height" value="1356" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-grid.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-reboot.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.bundle.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chrome_namaroid" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chrome_namaroid" type="462c0819:PsiDirectoryNode" />
+              <item name="lib_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib_js" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/bootstrap" />
+      <recent name="$PROJECT_DIR$/work" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c647dc-fece-4fd1-9fd1-accd6a6d13ae" name="Default" comment="" />
+      <created>1531616026222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531616026222</updated>
+      <workItem from="1531616027474" duration="5639000" />
+      <workItem from="1531623896682" duration="5155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1044" y="25" width="1516" height="1356" extended-state="0" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25305292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/sache.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/CODE_OF_CONDUCT.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/bootstrap-4.0.0/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-210">
+            <caret line="29" column="33" lean-forward="false" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib_js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap-reboot.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap-reboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/bootstrap.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="84" lean-forward="true" selection-start-line="22" selection-start-column="84" selection-end-line="22" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/speetch_recognition.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actionmailer (v3.1.1.rc1, RVM: ruby-1.9.3-p327 [activeAdmin]) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16897856" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
