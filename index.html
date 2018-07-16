@@ -3,29 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css" >
-    <link rel="stylesheet" href="./bootstrap/css/bootstrap-grid.min.css" >
-    <link rel="stylesheet" href="./bootstrap/css/bootstrap-reboot.min.css" >
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css" >
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css" >
 
-    <script src="./lib_js/jquery-3.3.1.min.js" ></script>
-    <script src="./bootstrap/js/bootstrap.js" ></script>
-    <script src="./js/speetch_recognition.js"></script>
+    <script src="assets/lib_js/jquery-3.3.1.min.js" ></script>
+    <script src="assets/bootstrap/js/bootstrap.js" ></script>
+    <script src="assets/js/speech_recognition.js"></script>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <title>音声認識 for NAMAROID</title>
 </head>
 <body>
 <div class="container">
     <div class="row">
         <div class="col-sm-12">
-            <h3>Chrome 音声認識</h3>
-            <h5>for NAMAROID Early Access 5 (クリップボード対応版)</h5>
+            <h3>Chrome 音声認識 for NAMAROID</h3>
+            <h5>Early Access 5 (クリップボード対応版)</h5>
         </div>
     </div>
     <div class="row" style="margin-top: 20px;">
-        <div class="col-sm-3">
+        <div class="col-sm-5">
             <button class="btn btn-primary" id="start_btn">音声認識開始</button>
             <button class="btn btn-secondary" id="end_btn">停止</button>
         </div>
-        <div class="col-sm-9 d-flex align-items-center">
+        <div class="col-sm-7 d-flex align-items-center">
             <strong><span id="status" style="font-size: 24px"></span></strong>
+        </div>
+    </div>
+
+    <div class="row" style="margin-top: 20px;">
+        <div class="col-sm-12">
+            <div clsss="card-text" id="prosess"></div>
         </div>
     </div>
 

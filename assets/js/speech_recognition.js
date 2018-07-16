@@ -8,52 +8,33 @@
  * Time: 10:17
  * To change this template use File | Settings | File Templates.
  */
-                            
 
-//document.execCommand('copy') で現在選択している部分をコピーできます。
 
-function copyTextToClipboard(textVal){
-  // テキストエリアを用意する
-  var copyFrom = document.createElement("textarea");
-  // テキストエリアへ値をセット
-  copyFrom.textContent = textVal;
+var speech = new webkitSpeechRecognition(); //音声認識APIの使用
+speech.lang = "ja"; //言語を日本語に設定
+var keep_stanby = false;
+var socket;
 
-  // bodyタグの要素を取得
-  var bodyElm = document.getElementsByTagName("body")[0];
-  // 子要素にテキストエリアを配置
-  bodyElm.appendChild(copyFrom);
-
-  // テキストエリアの値を選択
-  copyFrom.select();
-  // コピーコマンド発行
-  var retVal = document.execCommand('copy');
-  // 追加テキストエリアを削除
-  bodyElm.removeChild(copyFrom);
-  // 処理結果を返却
-  return retVal;
-}
-
-function update_result(text, copy_flg) {
+function update_result(text, send_flg) {
     $("#content").text(text);
     console.log(text);
 
-    if( copy_flg != undefined ){
-        console.log(copyTextToClipboard(text));
+    if( send_flg != undefined ){
+        socket.emit('get_word', { word: text });
     }
 };
+function update_prosess(text) {
+    $("#prosess").text(text);
+    console.log(text);
+}
 
 function update_status(text) {
     $("#status").html(text);
     console.log(text);
 };
 
-
-var speech = new webkitSpeechRecognition(); //音声認識APIの使用
-speech.lang = "ja"; //言語を日本語に設定
-
-var keep_stanby = false;
-
 $(function () {
+    socket = io.connect();
 
     $("#start_btn").on('click', function () {
         update_status('<span class="text-success">『音声認識スタンバイ』</span>');
@@ -62,16 +43,17 @@ $(function () {
     });
     $("#end_btn").on('click', function () {
         update_status('<span class="text-danger">『停止中』</span>');
+        update_prosess('[音声認識停止中]');
         keep_stanby = false;
         speech.stop();
     });
 
     speech.onspeechstart = function() {
-        update_result('[音声取得開始]')
+        update_prosess('[音声取得開始]')
     };
 
     speech.onspeechend = function(){
-        update_result('[解析開始]')
+        update_prosess('[解析開始]')
     }
 
     speech.onend = function(){
@@ -83,10 +65,9 @@ $(function () {
         }
     }
     speech.addEventListener('result', function (e) {
-        if(e != null){
-            console.log(e);
-            update_result(e.results[0][0].transcript, true);
-        }
+        console.log(e);
+        update_result(e.results[0][0].transcript, true);
+        update_prosess('[結果表示]');
     });
 
     speech.addEventListener('error', function (e) {
@@ -94,12 +75,11 @@ $(function () {
     });
 
     speech.addEventListener('nomatch', function (e) {
-        update_result("> [マッチングなし]");
+        update_prosess("> [マッチングなし]");
     });
 
     //初期
     $("#end_btn").trigger('click');
-
 });
 
 
