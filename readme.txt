@@ -10,6 +10,10 @@
 - NAMAROID のクリップボード監視機能を有効にする
 - NAMAROID を開始
 - chrome で http://localhost:3000/ を開く
-- 表示されてページ内の開始ボタンを押す
+- 表示されたページ内の開始ボタンを押す
 
-
+## 使用パッケージをマニュアルインストール
+npm install clipboard-polyfill
+npm install copy-paste
+npm install express
+npm install socket.io
